@@ -1,5 +1,3 @@
-## Greg's Vitals
-
 ### Status
 
 I feel fine.
