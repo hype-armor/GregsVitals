@@ -6,11 +6,11 @@ I feel fine.
 
 ### Blood Push
 
-???
+131
 
 ### Blood Pull
 
-???
+81
 
 ### Beats
 80
