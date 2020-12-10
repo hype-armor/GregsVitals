@@ -1,5 +1,9 @@
 ## Greg's Vitals
 
+### Status
+
+I feel fine.
+
 ### Blood Push
 
 ### Blood Pull
