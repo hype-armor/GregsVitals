@@ -1,7 +1,7 @@
 ## The Way I Feel
 
 ```text
-I feel like I have a cold.
+I feel like I have a bad cold.
 ```
 
 | Date          | Blood Push | Blood Pull | Beats     | Air Units | Heat Units |
